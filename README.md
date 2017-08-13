@@ -6,5 +6,7 @@ scripts:
 prod:
 npm run prod
 
+open dist/index.html
+
 developement:
 npm run dev
